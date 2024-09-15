@@ -1,0 +1,12 @@
+C:\Users\W510x\source\repos\Sajat\Sajat\bin\Debug\Sajat.exe.config
+C:\Users\W510x\source\repos\Sajat\Sajat\bin\Debug\Sajat.exe
+C:\Users\W510x\source\repos\Sajat\Sajat\bin\Debug\Sajat.pdb
+C:\Users\W510x\source\repos\Sajat\Sajat\bin\Debug\QRCoder.dll
+C:\Users\W510x\source\repos\Sajat\Sajat\obj\Debug\Sajat.csproj.AssemblyReference.cache
+C:\Users\W510x\source\repos\Sajat\Sajat\obj\Debug\Sajat.Form1.resources
+C:\Users\W510x\source\repos\Sajat\Sajat\obj\Debug\Sajat.Properties.Resources.resources
+C:\Users\W510x\source\repos\Sajat\Sajat\obj\Debug\Sajat.csproj.GenerateResource.cache
+C:\Users\W510x\source\repos\Sajat\Sajat\obj\Debug\Sajat.csproj.CoreCompileInputs.cache
+C:\Users\W510x\source\repos\Sajat\Sajat\obj\Debug\Sajat.csproj.Up2Date
+C:\Users\W510x\source\repos\Sajat\Sajat\obj\Debug\Sajat.exe
+C:\Users\W510x\source\repos\Sajat\Sajat\obj\Debug\Sajat.pdb

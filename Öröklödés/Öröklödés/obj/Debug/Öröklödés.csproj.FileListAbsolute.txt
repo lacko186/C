@@ -1,0 +1,7 @@
+C:\Users\W510x\source\repos\Öröklödés\Öröklödés\bin\Debug\Öröklödés.exe.config
+C:\Users\W510x\source\repos\Öröklödés\Öröklödés\bin\Debug\Öröklödés.exe
+C:\Users\W510x\source\repos\Öröklödés\Öröklödés\bin\Debug\Öröklödés.pdb
+C:\Users\W510x\source\repos\Öröklödés\Öröklödés\obj\Debug\Öröklödés.csproj.AssemblyReference.cache
+C:\Users\W510x\source\repos\Öröklödés\Öröklödés\obj\Debug\Öröklödés.csproj.CoreCompileInputs.cache
+C:\Users\W510x\source\repos\Öröklödés\Öröklödés\obj\Debug\Öröklödés.exe
+C:\Users\W510x\source\repos\Öröklödés\Öröklödés\obj\Debug\Öröklödés.pdb
